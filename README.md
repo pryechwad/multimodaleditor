@@ -9,6 +9,8 @@ Current Features
 4.Keyboard Shortcuts: Support for common formatting shortcuts (e.g., Ctrl+B for bold).
 5.Content Persistence: Automatically saves content to localStorage and restores it on reload.
 6.Clean UI: A simple and modern design using Tailwind CSS.
+
+
 Future Plans
 Short-Term Goals
 Advanced Formatting Options:
