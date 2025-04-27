@@ -1,5 +1,3 @@
-// src/components/Editor/SlashDropdown.jsx
-
 import React from 'react';
 
 const SlashDropdown = ({ results, onSelect, position }) => {
